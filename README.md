@@ -2,7 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/8f2e3b3a-321e-4119-b4f0-3a33c3752953/project/d9e5d731-ebf4-4812-8dba-6d86b0c7536a.svg)](https://wakatime.com/badge/user/8f2e3b3a-321e-4119-b4f0-3a33c3752953/project/d9e5d731-ebf4-4812-8dba-6d86b0c7536a) &nbsp;
 <img src="https://badge-size.herokuapp.com/Shashank-Sundi/WAGE-CLASS-CLASSIFICATION/main/app.py" alt="app_size" />&nbsp;
-<img src="https://ForTheBadge.com/images/badges/made-with-python.svg" alt="heart" height=20>&nbsp;
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 
 ML Project to classify  the wage class of a person , based on user inputs .
