@@ -7,23 +7,30 @@
 ML Project to classify  the wage class of a person , based on user inputs .
 
 <img src="static\images\sharon-mccutcheon-rItGZ4vquWk-unsplash.jpg" alt="FIFA" />
+<hr>
 
 ## Deployment
 
 The model has been deployed using REST API using flask, on Heroku : 
  https://wage-class-prediction-sundi.herokuapp.com/
-
+ 
   ##  Original Dataset and Python Notebook
 
   Original Dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
 
 Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/wage_class_pred.ipynb
 
+<hr>
+
+
 ## Project Description
 
 | PROBLEM | MODELS USED  |LIBRARIES USED   |IDE's USED|
 | :-------- | :------- | :------------------------- | :-------|
 | **Predicting the Wage-Class of a Person**| `XGBOOST,ADABOOST ,LOG-REG ,KNN ,RANDOM FOREST ,DECISION TREE ,SVC ,NAIVE BAYES, STACKING CLASSIFIER ` | `Sklearn , Seaborn ,Pandas ,Numpy ,Scipy ,Xgboost `|`PyCharm,` `VS Code,` `Jupyter Notebook`|
+
+<hr>
+
 
 ## Project Execution
 
@@ -54,6 +61,9 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/wage_cla
 |4| Deployed the model on Heroku via Git Bash terminal
 
 
+<hr>
+
+
 ## Screenshots
 
 ### **Enter the required inputs in home page and press predict button**
@@ -63,6 +73,8 @@ Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/wage_cla
 ### **The Prediction Page**
 
 <img src="static\images\wage class  2.PNG" alt="FIFA" style="height: 300px; width:700px;"/>
+
+  <hr>
 
   
 ## Contact :
