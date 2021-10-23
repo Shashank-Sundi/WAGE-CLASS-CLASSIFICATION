@@ -16,7 +16,9 @@ The model has been deployed using REST API using flask, on Heroku :
  
   ##  Original Dataset and Python Notebook
 
-  Original Dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
+Original Dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/adult/
+
+Python Notebook : https://shashank-sundi.github.io/WAGE-CLASS-CLASSIFICATION/
 
 Python Notebook : https://github.com/Shashank-Sundi/NOTEBOOKS/blob/main/wage_class_pred.ipynb
 
